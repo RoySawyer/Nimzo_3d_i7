@@ -1,0 +1,314 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-22 14:09+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_7.cpp:2
+msgid "that you use it only with small PGN database files, 100,000 games at the most."
+msgstr "cewa kuna amfani da shi kawai tare da ƙananan fayilolin PGN, wasanni 100,000 a mafi yawan."
+
+#: main_7.cpp:4
+msgid "< Fast search > function or Tarrasch database search functions instead."
+msgstr "<Bincike mai sauri> aiki ko ayyukan bincike na Tarrasch maimakon."
+
+#: main_7.cpp:6
+msgid "The < Search games.. > function is now available for Tarrasch databases files (*.tdb)"
+msgstr "Aikin <Wasanni Bincika..> yana samuwa yanzu don fayilolin Tarrasch bayanan bayanai (*.tdb)"
+
+#: main_7.cpp:8
+msgid "as well as PGN database files.  If you make identical databases in the two formats,"
+msgstr "da kuma fayilolin PGN database.  Idan kun yi bayanai iri ɗaya a cikin nau'ikan nau'ikan guda biyu,"
+
+#: main_7.cpp:10
+msgid "the Tarrasch database searches are much faster."
+msgstr "Binciken bayanan Tarrasch yana da sauri sosai."
+
+#: main_7.cpp:12
+msgid "Fast search cannot be used after a column sort."
+msgstr "Ba za a iya amfani da bincike mai sauri ba bayan nau'in shafi."
+
+#: main_7.cpp:14
+msgid "Suggestion : in order to use the fast search function,"
+msgstr "Shawara: don amfani da aikin bincike mai sauri,"
+
+#: main_7.cpp:16
+msgid "save the current file or load a different one."
+msgstr "ajiye fayil na yanzu ko loda wani daban."
+
+#: main_7.cpp:18 main_7.cpp:48
+msgid "Fast search PGN database message"
+msgstr "Saƙon bayanai da sauri na PGN"
+
+#: main_7.cpp:20 main_7.cpp:60
+msgid "Error opening file, operation cancelled"
+msgstr "Kuskuren buɗe fayil, an soke aiki"
+
+#: main_7.cpp:22
+msgid "Games search"
+msgstr "Binciken wasanni"
+
+#: main_7.cpp:24
+msgid "Searching games"
+msgstr "Neman wasanni"
+
+#: main_7.cpp:26
+msgid "Reading games into cache"
+msgstr "Karanta wasanni a cikin cache"
+
+#: main_7.cpp:28
+msgid "Removing EOF characters"
+msgstr "Cire haruffan EOF"
+
+#: main_7.cpp:30
+msgid "Current read number"
+msgstr "Lambar karatu na yanzu"
+
+#: main_7.cpp:32
+msgid "File processed"
+msgstr "An sarrafa fayil"
+
+#: main_7.cpp:34
+msgid "characters removed"
+msgstr "an cire haruffa"
+
+#: main_7.cpp:36
+msgid "from file"
+msgstr "daga fayil"
+
+#: main_7.cpp:38
+msgid "to file"
+msgstr "da fayil"
+
+#: main_7.cpp:40
+msgid "PGN database file message"
+msgstr "PGN bayanan fayil sakon"
+
+#: main_7.cpp:42
+msgid "Games cache cleared"
+msgstr "An share cache wasanni"
+
+#: main_7.cpp:44
+msgid "Fast search PGN games message"
+msgstr "Binciken sauri saƙon wasanni na PGN"
+
+#: main_7.cpp:46
+msgid "Operation cancelled by user"
+msgstr "Mai amfani ya soke aikin"
+
+#: main_7.cpp:50
+msgid "EOF error when reading file,"
+msgstr "Kuskuren EOF lokacin karanta fayil,"
+
+#: main_7.cpp:52
+msgid "Suggestion : Create a new version of the current PGN file with"
+msgstr "Shawara : Ƙirƙiri sabon sigar fayil ɗin PGN na yanzu tare da"
+
+#: main_7.cpp:54
+msgid "< Search games.. > < Fast search options.. > < Remove EOF characters >"
+msgstr "< Bincika wasanni .. > < Zaɓuɓɓukan bincike mai sauri.. > < Cire haruffan EOF >"
+
+#: main_7.cpp:56
+msgid "and then open the new file for a fast search."
+msgstr "sa'an nan kuma buɗe sabon fayil don bincike mai sauri."
+
+#: main_7.cpp:58
+msgid "Fast search PGN database error message"
+msgstr "Saƙon kuskuren bayanai na PGN mai sauri"
+
+#: main_7.cpp:62
+msgid "Fast search"
+msgstr "Bincike mai sauri"
+
+#: main_7.cpp:64
+msgid "Fast search options"
+msgstr "Zaɓuɓɓukan bincike mai sauri"
+
+#: main_7.cpp:66
+msgid "Remove EOF characters"
+msgstr "Cire haruffan EOF"
+
+#: main_7.cpp:68
+msgid "Clear cache"
+msgstr "Share cache"
+
+#: main_7.cpp:70
+msgid "Ok"
+msgstr "Ko"
+
+#: main_7.cpp:72
+msgid "Fritz"
+msgstr "Fritz"
+
+#: main_7.cpp:74
+msgid "The < Fast search > feature performs a faster search on PGN files"
+msgstr "Halin <Bincike mai sauri> yana yin bincike mai sauri akan fayilolin PGN"
+
+#: main_7.cpp:76
+msgid "than a normal search, but it does have some restrictions."
+msgstr "fiye da bincike na yau da kullun, amma yana da wasu hani."
+
+#: main_7.cpp:78
+msgid "It does not search for position matches, nor for games ending in"
+msgstr "Ba ya neman matches matsayi, ko don wasannin da ke ƙarewa"
+
+#: main_7.cpp:80
+msgid "checkmate, stalemate, or with a check."
+msgstr "checkmate, stalemate, ko tare da cak."
+
+#: main_7.cpp:82
+msgid "If you are using an annotated PGN database file which was exported from Fritz,"
+msgstr "Idan kana amfani da bayanan bayanan PGN wanda aka fitar dashi daga Fritz,"
+
+#: main_7.cpp:84
+msgid "you will probably have to use the < Remove EOF characters > option"
+msgstr "tabbas za ku yi amfani da <Cire haruffan EOF> zaɓi"
+
+#: main_7.cpp:86
+msgid "and load the new file, for the fast search to work properly."
+msgstr "kuma loda sabon fayil ɗin, don bincike mai sauri ya yi aiki yadda ya kamata."
+
+#: main_7.cpp:88
+msgid "Click on < Fritz > for more information on Fritz database files."
+msgstr "Danna <Fritz> don ƙarin bayani akan fayilolin bayanai na Fritz."
+
+#: main_7.cpp:90
+msgid "If you sort the game list by clicking on a column heading,"
+msgstr "Idan ka jera jerin wasan ta danna kan shafi,"
+
+#: main_7.cpp:92
+msgid "The fast search will no longer work, until you save the file,"
+msgstr "Binciken sauri ba zai ƙara yin aiki ba, har sai kun ajiye fayil ɗin,"
+
+#: main_7.cpp:94
+msgid "or load a different one."
+msgstr "ko loda wani daban."
+
+#: main_7.cpp:96
+msgid "The fast search feature creates a cache of game header records"
+msgstr "Siffar bincike mai sauri tana haifar da cache na rikodin taken wasan"
+
+#: main_7.cpp:98
+msgid "in the computer memory, which remains there while the file is open."
+msgstr "a cikin ƙwaƙwalwar kwamfuta, wanda ya rage a wurin yayin da fayil yake buɗewa."
+
+#: main_7.cpp:100
+msgid "If fast search is not working properly, or you want to release"
+msgstr "Idan bincike mai sauri baya aiki yadda yakamata, ko kuna son saki"
+
+#: main_7.cpp:102
+msgid "the memory, then click on < Clear cache >."
+msgstr "memorin, sannan danna <Clell cache>."
+
+#: main_7.cpp:104
+msgid "If you click < Search > with the < Shift > key down,"
+msgstr "Idan kun danna <Bincika> tare da maɓallin < Shift> ƙasa,"
+
+#: main_7.cpp:106
+msgid "the program will perform a fast search,"
+msgstr "shirin zai yi bincike mai sauri,"
+
+#: main_7.cpp:108
+msgid "even if the < Fast Search > box is not checked."
+msgstr "koda kuwa ba a duba akwatin < Fast Search > ba."
+
+#: main_7.cpp:110
+msgid "Fritz database files are very good."
+msgstr "Fayilolin bayanai na Fritz suna da kyau sosai."
+
+#: main_7.cpp:152
+msgid "Fritz database help"
+msgstr "Taimakon bayanai na Fritz"
+
+#: main_7.cpp:150
+msgid "from the site given above."
+msgstr "daga shafin da aka bayar a sama."
+
+#: main_7.cpp:148
+msgid "You can export this to PGN format using one of the old Fritz GUIs"
+msgstr "Kuna iya fitar da wannan zuwa tsarin PGN ta amfani da ɗayan tsoffin Fritz GUIs"
+
+#: main_7.cpp:146
+msgid "which also has an accompanying database, but the games are not annotated."
+msgstr "wanda kuma yana da bayanan da ke biye, amma ba a bayyana wasannin ba."
+
+#: main_7.cpp:144
+msgid "Also, many free download sites have a trial version of the Deep Fritz 12"
+msgstr "Hakanan, yawancin wuraren zazzagewa kyauta suna da sigar gwaji na Deep Fritz 12"
+
+#: main_7.cpp:142
+msgid "to ISO files which can then be unzipped with 7-zip."
+msgstr "zuwa fayilolin ISO waɗanda za'a iya buɗe su tare da 7-zip."
+
+#: main_7.cpp:140
+msgid "You need a free program called MagicISO to convert the .bin files"
+msgstr "Kuna buƙatar shirin kyauta mai suna MagicISO don canza fayilolin .bin"
+
+#: main_7.cpp:138
+msgid "which have annotated databases, are available from -"
+msgstr "waɗanda ke da bayanan bayanai, ana samun su daga -"
+
+#: main_7.cpp:136
+msgid "Some old versions of the Fritz GUI (numbers 5, 6 and 7)"
+msgstr "Wasu tsoffin juzu'in Fritz GUI (lambobi 5, 6 da 7)"
+
+#: main_7.cpp:134
+msgid "The new file can then be opened and used with < Fast search >"
+msgstr "Ana iya buɗe sabon fayil ɗin kuma a yi amfani da shi tare da <Bincike mai sauri>"
+
+#: main_7.cpp:132
+msgid "with the offending characters removed."
+msgstr "tare da cire haruffan masu laifi."
+
+#: main_7.cpp:130
+msgid "which creates a new version of the current PGN database file"
+msgstr "wanda ke haifar da sabon sigar fayil ɗin bayanai na PGN na yanzu"
+
+#: main_7.cpp:128
+msgid "To circumvent this, you can use the < Remove EOF characters >"
+msgstr "Don kauce wa wannan, zaka iya amfani da <Cire EOF haruffa>"
+
+#: main_7.cpp:126
+msgid "None of this happens with a normal games search."
+msgstr "Babu ɗayan waɗannan da ke faruwa tare da binciken wasanni na yau da kullun."
+
+#: main_7.cpp:124
+msgid "but could not get it to work properly on the original Fritz PGN files."
+msgstr "amma ya kasa samun shi yayi aiki da kyau akan ainihin fayilolin Fritz PGN."
+
+#: main_7.cpp:122
+msgid "I stopped the fast search from causing the program to crash,"
+msgstr "Na dakatar da bincike mai sauri daga haifar da rushewar shirin,"
+
+#: main_7.cpp:120
+msgid "end of file markers and were causing the the program to hang or crash."
+msgstr "ƙarshen alamomin fayil kuma suna sa shirin ya rataya ko fadowa."
+
+#: main_7.cpp:118
+msgid "which uses text mode file processing, these characters act like"
+msgstr "wanda ke amfani da sarrafa fayil ɗin yanayin rubutu, waɗannan haruffa suna aiki kamar"
+
+#: main_7.cpp:116
+msgid "When these are read from a PGN file with the fast search function,"
+msgstr "Lokacin da aka karanta waɗannan daga fayil ɗin PGN tare da aikin bincike mai sauri,"
+
+#: main_7.cpp:114
+msgid "However, the ones with annotated games contain < Ctrl-Z > characters."
+msgstr "Koyaya, waɗanda ke da bayanan bayanan sun ƙunshi haruffa <Ctrl-Z>."
+
+#: main_7.cpp:112
+msgid "They can be exported as PGN files from within a Fritz GUI"
+msgstr "Ana iya fitar da su azaman fayilolin PGN daga cikin Fritz GUI"
