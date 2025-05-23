@@ -1,0 +1,314 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-22 14:09+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_7.cpp:2
+msgid "that you use it only with small PGN database files, 100,000 games at the most."
+msgstr "et sa kasutad seda ainult väikeste PGN-andmebaasifailidega, maksimaalselt 100 000 mänguga."
+
+#: main_7.cpp:4
+msgid "< Fast search > function or Tarrasch database search functions instead."
+msgstr "< Kiirotsingu > funktsioon või Tarraschi andmebaasi otsingu funktsioonid."
+
+#: main_7.cpp:6
+msgid "The < Search games.. > function is now available for Tarrasch databases files (*.tdb)"
+msgstr "Funktsioon < Otsi mänge.. > on nüüd saadaval Tarraschi andmebaasifailide (*.tdb) jaoks."
+
+#: main_7.cpp:8
+msgid "as well as PGN database files.  If you make identical databases in the two formats,"
+msgstr "kui ka PGN-andmebaasifailid. Kui loote kahes vormingus identsed andmebaasid,"
+
+#: main_7.cpp:10
+msgid "the Tarrasch database searches are much faster."
+msgstr "Tarraschi andmebaasi otsingud on palju kiiremad."
+
+#: main_7.cpp:12
+msgid "Fast search cannot be used after a column sort."
+msgstr "Kiirotsingut ei saa kasutada pärast veeru sortimist."
+
+#: main_7.cpp:14
+msgid "Suggestion : in order to use the fast search function,"
+msgstr "Soovitus: kiirotsingu funktsiooni kasutamiseks"
+
+#: main_7.cpp:16
+msgid "save the current file or load a different one."
+msgstr "salvesta praegune fail või laadi teine."
+
+#: main_7.cpp:18 main_7.cpp:48
+msgid "Fast search PGN database message"
+msgstr "Kiire otsingu PGN andmebaasi teade"
+
+#: main_7.cpp:20 main_7.cpp:60
+msgid "Error opening file, operation cancelled"
+msgstr "Viga faili avamisel, toiming tühistati"
+
+#: main_7.cpp:22
+msgid "Games search"
+msgstr "Mängude otsing"
+
+#: main_7.cpp:24
+msgid "Searching games"
+msgstr "Mängude otsimine"
+
+#: main_7.cpp:26
+msgid "Reading games into cache"
+msgstr "Mängude lugemine vahemälust"
+
+#: main_7.cpp:28
+msgid "Removing EOF characters"
+msgstr "EOF-märkide eemaldamine"
+
+#: main_7.cpp:30
+msgid "Current read number"
+msgstr "Praegune lugemiste arv"
+
+#: main_7.cpp:32
+msgid "File processed"
+msgstr "Fail töödeldud"
+
+#: main_7.cpp:34
+msgid "characters removed"
+msgstr "eemaldatud tähemärgid"
+
+#: main_7.cpp:36
+msgid "from file"
+msgstr "failist"
+
+#: main_7.cpp:38
+msgid "to file"
+msgstr "esitama"
+
+#: main_7.cpp:40
+msgid "PGN database file message"
+msgstr "PGN-andmebaasifaili teade"
+
+#: main_7.cpp:42
+msgid "Games cache cleared"
+msgstr "Mängude vahemälu tühjendatud"
+
+#: main_7.cpp:44
+msgid "Fast search PGN games message"
+msgstr "Kiire PGN-mängude otsingu sõnum"
+
+#: main_7.cpp:46
+msgid "Operation cancelled by user"
+msgstr "Kasutaja tühistas toimingu"
+
+#: main_7.cpp:50
+msgid "EOF error when reading file,"
+msgstr "EOF-viga faili lugemisel"
+
+#: main_7.cpp:52
+msgid "Suggestion : Create a new version of the current PGN file with"
+msgstr "Soovitus: Loo praegusest PGN-failist uus versioon käsuga"
+
+#: main_7.cpp:54
+msgid "< Search games.. > < Fast search options.. > < Remove EOF characters >"
+msgstr "< Otsi mänge.. > < Kiirotsingu valikud.. > < Eemalda EOF-märgid >"
+
+#: main_7.cpp:56
+msgid "and then open the new file for a fast search."
+msgstr "ja seejärel avage uus fail kiireks otsinguks."
+
+#: main_7.cpp:58
+msgid "Fast search PGN database error message"
+msgstr "Kiire otsingu PGN-andmebaasis veateade"
+
+#: main_7.cpp:62
+msgid "Fast search"
+msgstr "Kiire otsing"
+
+#: main_7.cpp:64
+msgid "Fast search options"
+msgstr "Kiirotsingu valikud"
+
+#: main_7.cpp:66
+msgid "Remove EOF characters"
+msgstr "Eemalda EOF-tähemärgid"
+
+#: main_7.cpp:68
+msgid "Clear cache"
+msgstr "Tühjenda vahemälu"
+
+#: main_7.cpp:70
+msgid "Ok"
+msgstr "Olgu"
+
+#: main_7.cpp:72
+msgid "Fritz"
+msgstr "Fritz"
+
+#: main_7.cpp:74
+msgid "The < Fast search > feature performs a faster search on PGN files"
+msgstr "Funktsioon <Kiirotsing> otsib PGN-failidest kiiremini."
+
+#: main_7.cpp:76
+msgid "than a normal search, but it does have some restrictions."
+msgstr "kui tavaline otsing, kuid sellel on mõned piirangud."
+
+#: main_7.cpp:78
+msgid "It does not search for position matches, nor for games ending in"
+msgstr "See ei otsi positsioonide vasteid ega mänge, mis lõpevad"
+
+#: main_7.cpp:80
+msgid "checkmate, stalemate, or with a check."
+msgstr "matt, patiseis või tšekk."
+
+#: main_7.cpp:82
+msgid "If you are using an annotated PGN database file which was exported from Fritz,"
+msgstr "Kui kasutate Fritzi eksporditud annoteeritud PGN-andmebaasifaili,"
+
+#: main_7.cpp:84
+msgid "you will probably have to use the < Remove EOF characters > option"
+msgstr "Tõenäoliselt peate kasutama valikut < Eemalda EOF-märgid >"
+
+#: main_7.cpp:86
+msgid "and load the new file, for the fast search to work properly."
+msgstr "ja laadige uus fail, et kiirotsing korralikult töötaks."
+
+#: main_7.cpp:88
+msgid "Click on < Fritz > for more information on Fritz database files."
+msgstr "Fritzi andmebaasifailide kohta lisateabe saamiseks klõpsake <Fritz>."
+
+#: main_7.cpp:90
+msgid "If you sort the game list by clicking on a column heading,"
+msgstr "Kui sorteerite mängude loendit veerupäisele klõpsates,"
+
+#: main_7.cpp:92
+msgid "The fast search will no longer work, until you save the file,"
+msgstr "Kiirotsing ei tööta enam enne faili salvestamist."
+
+#: main_7.cpp:94
+msgid "or load a different one."
+msgstr "või laadige mõni teine."
+
+#: main_7.cpp:96
+msgid "The fast search feature creates a cache of game header records"
+msgstr "Kiirotsingu funktsioon loob mängu päisekirjete vahemälu"
+
+#: main_7.cpp:98
+msgid "in the computer memory, which remains there while the file is open."
+msgstr "arvuti mällu, mis jääb sinna faili avamise ajaks."
+
+#: main_7.cpp:100
+msgid "If fast search is not working properly, or you want to release"
+msgstr "Kui kiirotsing ei tööta korralikult või soovite vabastada"
+
+#: main_7.cpp:102
+msgid "the memory, then click on < Clear cache >."
+msgstr "mälu ja seejärel klõpsake <Tühjenda vahemälu >."
+
+#: main_7.cpp:104
+msgid "If you click < Search > with the < Shift > key down,"
+msgstr "Kui klõpsate < Otsi > ja < Shift > on all,"
+
+#: main_7.cpp:106
+msgid "the program will perform a fast search,"
+msgstr "programm teeb kiire otsingu,"
+
+#: main_7.cpp:108
+msgid "even if the < Fast Search > box is not checked."
+msgstr "isegi kui ruut < Kiirotsing > pole märgitud."
+
+#: main_7.cpp:110
+msgid "Fritz database files are very good."
+msgstr "Fritzi andmebaasifailid on väga head."
+
+#: main_7.cpp:152
+msgid "Fritz database help"
+msgstr "Fritzi andmebaasi abi"
+
+#: main_7.cpp:150
+msgid "from the site given above."
+msgstr "ülalmainitud saidilt."
+
+#: main_7.cpp:148
+msgid "You can export this to PGN format using one of the old Fritz GUIs"
+msgstr "Saate selle PGN-vormingusse eksportida, kasutades ühte vana Fritzi graafilist kasutajaliidest."
+
+#: main_7.cpp:146
+msgid "which also has an accompanying database, but the games are not annotated."
+msgstr "millel on ka kaasasolev andmebaas, kuid mängud pole annoteeritud."
+
+#: main_7.cpp:144
+msgid "Also, many free download sites have a trial version of the Deep Fritz 12"
+msgstr "Samuti on paljudel tasuta allalaadimise saitidel Deep Fritz 12 prooviversioon."
+
+#: main_7.cpp:142
+msgid "to ISO files which can then be unzipped with 7-zip."
+msgstr "ISO-failideks, mille saab seejärel 7-zip-iga lahti pakkida."
+
+#: main_7.cpp:140
+msgid "You need a free program called MagicISO to convert the .bin files"
+msgstr ".bin-failide teisendamiseks vajate tasuta programmi nimega MagicISO."
+
+#: main_7.cpp:138
+msgid "which have annotated databases, are available from -"
+msgstr "millel on annoteeritud andmebaasid, on saadaval aadressilt -"
+
+#: main_7.cpp:136
+msgid "Some old versions of the Fritz GUI (numbers 5, 6 and 7)"
+msgstr "Mõned Fritzi GUI vanemad versioonid (numbrid 5, 6 ja 7)"
+
+#: main_7.cpp:134
+msgid "The new file can then be opened and used with < Fast search >"
+msgstr "Seejärel saab uut faili avada ja kasutada funktsiooniga <Kiirotsing>."
+
+#: main_7.cpp:132
+msgid "with the offending characters removed."
+msgstr "kusjuures solvavad tegelased on eemaldatud."
+
+#: main_7.cpp:130
+msgid "which creates a new version of the current PGN database file"
+msgstr "mis loob praegusest PGN-andmebaasifailist uue versiooni"
+
+#: main_7.cpp:128
+msgid "To circumvent this, you can use the < Remove EOF characters >"
+msgstr "Selle vältimiseks võite kasutada käsku < Eemalda EOF-märgid >"
+
+#: main_7.cpp:126
+msgid "None of this happens with a normal games search."
+msgstr "Tavalise mänguotsingu puhul seda ei juhtu."
+
+#: main_7.cpp:124
+msgid "but could not get it to work properly on the original Fritz PGN files."
+msgstr "aga ei saanud seda originaalsete Fritz PGN-failide puhul korralikult tööle."
+
+#: main_7.cpp:122
+msgid "I stopped the fast search from causing the program to crash,"
+msgstr "Ma peatasin kiirotsingu, mis põhjustas programmi krahhi."
+
+#: main_7.cpp:120
+msgid "end of file markers and were causing the the program to hang or crash."
+msgstr "faili lõpu markerid ja põhjustasid programmi hangumise või krahhi."
+
+#: main_7.cpp:118
+msgid "which uses text mode file processing, these characters act like"
+msgstr "mis kasutab tekstirežiimi failitöötlust, toimivad need märgid nagu"
+
+#: main_7.cpp:116
+msgid "When these are read from a PGN file with the fast search function,"
+msgstr "Kui need PGN-failist kiirotsingu funktsiooniga loetakse,"
+
+#: main_7.cpp:114
+msgid "However, the ones with annotated games contain < Ctrl-Z > characters."
+msgstr "Annoteeritud mängudega mängudes on aga <Ctrl-Z> sümbolid."
+
+#: main_7.cpp:112
+msgid "They can be exported as PGN files from within a Fritz GUI"
+msgstr "Neid saab Fritzi graafilisest kasutajaliidesest PGN-failidena eksportida"
