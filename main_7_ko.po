@@ -1,0 +1,314 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-22 14:09+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_7.cpp:2
+msgid "that you use it only with small PGN database files, 100,000 games at the most."
+msgstr "작은 PGN 데이터베이스 파일에만 사용하고, 최대 10만 개의 게임에만 사용하세요."
+
+#: main_7.cpp:4
+msgid "< Fast search > function or Tarrasch database search functions instead."
+msgstr "대신 <빠른 검색> 기능이나 Tarrasch 데이터베이스 검색 기능을 사용하세요."
+
+#: main_7.cpp:6
+msgid "The < Search games.. > function is now available for Tarrasch databases files (*.tdb)"
+msgstr "<게임 검색..> 기능이 이제 Tarrasch 데이터베이스 파일(*.tdb)에 사용 가능합니다."
+
+#: main_7.cpp:8
+msgid "as well as PGN database files.  If you make identical databases in the two formats,"
+msgstr "PGN 데이터베이스 파일도 마찬가지입니다. 두 형식으로 동일한 데이터베이스를 만들면"
+
+#: main_7.cpp:10
+msgid "the Tarrasch database searches are much faster."
+msgstr "Tarrasch 데이터베이스 검색은 훨씬 빠릅니다."
+
+#: main_7.cpp:12
+msgid "Fast search cannot be used after a column sort."
+msgstr "열 정렬 후에는 빠른 검색을 사용할 수 없습니다."
+
+#: main_7.cpp:14
+msgid "Suggestion : in order to use the fast search function,"
+msgstr "제안 : 빠른 검색 기능을 사용하려면"
+
+#: main_7.cpp:16
+msgid "save the current file or load a different one."
+msgstr "현재 파일을 저장하거나 다른 파일을 로드합니다."
+
+#: main_7.cpp:18 main_7.cpp:48
+msgid "Fast search PGN database message"
+msgstr "빠른 검색 PGN 데이터베이스 메시지"
+
+#: main_7.cpp:20 main_7.cpp:60
+msgid "Error opening file, operation cancelled"
+msgstr "파일을 여는 중 오류가 발생하여 작업이 취소되었습니다."
+
+#: main_7.cpp:22
+msgid "Games search"
+msgstr "게임 검색"
+
+#: main_7.cpp:24
+msgid "Searching games"
+msgstr "게임 검색"
+
+#: main_7.cpp:26
+msgid "Reading games into cache"
+msgstr "캐시로 게임 읽기"
+
+#: main_7.cpp:28
+msgid "Removing EOF characters"
+msgstr "EOF 문자 제거"
+
+#: main_7.cpp:30
+msgid "Current read number"
+msgstr "현재 읽은 번호"
+
+#: main_7.cpp:32
+msgid "File processed"
+msgstr "파일 처리됨"
+
+#: main_7.cpp:34
+msgid "characters removed"
+msgstr "제거된 문자"
+
+#: main_7.cpp:36
+msgid "from file"
+msgstr "파일에서"
+
+#: main_7.cpp:38
+msgid "to file"
+msgstr "파일로"
+
+#: main_7.cpp:40
+msgid "PGN database file message"
+msgstr "PGN 데이터베이스 파일 메시지"
+
+#: main_7.cpp:42
+msgid "Games cache cleared"
+msgstr "게임 캐시가 지워졌습니다"
+
+#: main_7.cpp:44
+msgid "Fast search PGN games message"
+msgstr "빠른 검색 PGN 게임 메시지"
+
+#: main_7.cpp:46
+msgid "Operation cancelled by user"
+msgstr "사용자가 작업을 취소했습니다."
+
+#: main_7.cpp:50
+msgid "EOF error when reading file,"
+msgstr "파일을 읽는 중 EOF 오류가 발생했습니다."
+
+#: main_7.cpp:52
+msgid "Suggestion : Create a new version of the current PGN file with"
+msgstr "제안 : 현재 PGN 파일의 새 버전을 만듭니다."
+
+#: main_7.cpp:54
+msgid "< Search games.. > < Fast search options.. > < Remove EOF characters >"
+msgstr "< 게임 검색.. > < 빠른 검색 옵션.. > < EOF 문자 제거 >"
+
+#: main_7.cpp:56
+msgid "and then open the new file for a fast search."
+msgstr "그런 다음 빠른 검색을 위해 새 파일을 엽니다."
+
+#: main_7.cpp:58
+msgid "Fast search PGN database error message"
+msgstr "빠른 검색 PGN 데이터베이스 오류 메시지"
+
+#: main_7.cpp:62
+msgid "Fast search"
+msgstr "빠른 검색"
+
+#: main_7.cpp:64
+msgid "Fast search options"
+msgstr "빠른 검색 옵션"
+
+#: main_7.cpp:66
+msgid "Remove EOF characters"
+msgstr "EOF 문자 제거"
+
+#: main_7.cpp:68
+msgid "Clear cache"
+msgstr "캐시 지우기"
+
+#: main_7.cpp:70
+msgid "Ok"
+msgstr "좋아요"
+
+#: main_7.cpp:72
+msgid "Fritz"
+msgstr "프리츠"
+
+#: main_7.cpp:74
+msgid "The < Fast search > feature performs a faster search on PGN files"
+msgstr "<빠른 검색> 기능은 PGN 파일에서 더 빠른 검색을 수행합니다."
+
+#: main_7.cpp:76
+msgid "than a normal search, but it does have some restrictions."
+msgstr "일반 검색보다 뛰어나지만 몇 가지 제한이 있습니다."
+
+#: main_7.cpp:78
+msgid "It does not search for position matches, nor for games ending in"
+msgstr "위치 일치나 다음으로 끝나는 게임은 검색하지 않습니다."
+
+#: main_7.cpp:80
+msgid "checkmate, stalemate, or with a check."
+msgstr "체크메이트, 스테일메이트 또는 체크."
+
+#: main_7.cpp:82
+msgid "If you are using an annotated PGN database file which was exported from Fritz,"
+msgstr "Fritz에서 내보낸 주석이 달린 PGN 데이터베이스 파일을 사용하는 경우"
+
+#: main_7.cpp:84
+msgid "you will probably have to use the < Remove EOF characters > option"
+msgstr "아마도 <EOF 문자 제거> 옵션을 사용해야 할 것입니다."
+
+#: main_7.cpp:86
+msgid "and load the new file, for the fast search to work properly."
+msgstr "그리고 빠른 검색이 제대로 작동하도록 새 파일을 로드합니다."
+
+#: main_7.cpp:88
+msgid "Click on < Fritz > for more information on Fritz database files."
+msgstr "Fritz 데이터베이스 파일에 대한 자세한 내용을 보려면 <Fritz>를 클릭하세요."
+
+#: main_7.cpp:90
+msgid "If you sort the game list by clicking on a column heading,"
+msgstr "열 제목을 클릭하여 게임 목록을 정렬하는 경우,"
+
+#: main_7.cpp:92
+msgid "The fast search will no longer work, until you save the file,"
+msgstr "파일을 저장할 때까지 빠른 검색은 더 이상 작동하지 않습니다."
+
+#: main_7.cpp:94
+msgid "or load a different one."
+msgstr "또는 다른 것을 로드하세요."
+
+#: main_7.cpp:96
+msgid "The fast search feature creates a cache of game header records"
+msgstr "빠른 검색 기능은 게임 헤더 레코드의 캐시를 생성합니다."
+
+#: main_7.cpp:98
+msgid "in the computer memory, which remains there while the file is open."
+msgstr "파일이 열려 있는 동안 컴퓨터 메모리에 남아 있습니다."
+
+#: main_7.cpp:100
+msgid "If fast search is not working properly, or you want to release"
+msgstr "빠른 검색이 제대로 작동하지 않거나 해제하려는 경우"
+
+#: main_7.cpp:102
+msgid "the memory, then click on < Clear cache >."
+msgstr "메모리를 삭제한 후, <캐시 지우기>를 클릭하세요."
+
+#: main_7.cpp:104
+msgid "If you click < Search > with the < Shift > key down,"
+msgstr "<Shift> 키를 누른 상태에서 <검색>을 클릭하면,"
+
+#: main_7.cpp:106
+msgid "the program will perform a fast search,"
+msgstr "프로그램은 빠른 검색을 수행합니다."
+
+#: main_7.cpp:108
+msgid "even if the < Fast Search > box is not checked."
+msgstr "<빠른 검색> 상자가 체크되어 있지 않더라도."
+
+#: main_7.cpp:110
+msgid "Fritz database files are very good."
+msgstr "프리츠 데이터베이스 파일은 매우 좋습니다."
+
+#: main_7.cpp:152
+msgid "Fritz database help"
+msgstr "프리츠 데이터베이스 도움말"
+
+#: main_7.cpp:150
+msgid "from the site given above."
+msgstr "위에 제공된 사이트에서."
+
+#: main_7.cpp:148
+msgid "You can export this to PGN format using one of the old Fritz GUIs"
+msgstr "이전 Fritz GUI 중 하나를 사용하여 이를 PGN 형식으로 내보낼 수 있습니다."
+
+#: main_7.cpp:146
+msgid "which also has an accompanying database, but the games are not annotated."
+msgstr "이에 대한 데이터베이스도 있지만, 게임 자체에는 주석이 없습니다."
+
+#: main_7.cpp:144
+msgid "Also, many free download sites have a trial version of the Deep Fritz 12"
+msgstr "또한 많은 무료 다운로드 사이트에는 Deep Fritz 12의 평가판이 있습니다."
+
+#: main_7.cpp:142
+msgid "to ISO files which can then be unzipped with 7-zip."
+msgstr "ISO 파일로 변환한 후 7-zip으로 압축을 풀 수 있습니다."
+
+#: main_7.cpp:140
+msgid "You need a free program called MagicISO to convert the .bin files"
+msgstr ".bin 파일을 변환하려면 MagicISO라는 무료 프로그램이 필요합니다."
+
+#: main_7.cpp:138
+msgid "which have annotated databases, are available from -"
+msgstr "주석이 달린 데이터베이스가 있는 것은 다음에서 사용할 수 있습니다."
+
+#: main_7.cpp:136
+msgid "Some old versions of the Fritz GUI (numbers 5, 6 and 7)"
+msgstr "Fritz GUI의 일부 이전 버전(번호 5, 6 및 7)"
+
+#: main_7.cpp:134
+msgid "The new file can then be opened and used with < Fast search >"
+msgstr "그러면 새 파일을 열고 <빠른 검색>을 사용하여 사용할 수 있습니다."
+
+#: main_7.cpp:132
+msgid "with the offending characters removed."
+msgstr "문제가 되는 문자를 제거했습니다."
+
+#: main_7.cpp:130
+msgid "which creates a new version of the current PGN database file"
+msgstr "현재 PGN 데이터베이스 파일의 새 버전을 생성합니다."
+
+#: main_7.cpp:128
+msgid "To circumvent this, you can use the < Remove EOF characters >"
+msgstr "이를 방지하려면 <EOF 문자 제거>를 사용할 수 있습니다."
+
+#: main_7.cpp:126
+msgid "None of this happens with a normal games search."
+msgstr "일반 게임 검색에서는 이런 일이 발생하지 않습니다."
+
+#: main_7.cpp:124
+msgid "but could not get it to work properly on the original Fritz PGN files."
+msgstr "하지만 원본 Fritz PGN 파일에서는 제대로 작동하지 않았습니다."
+
+#: main_7.cpp:122
+msgid "I stopped the fast search from causing the program to crash,"
+msgstr "빠른 검색으로 인해 프로그램이 충돌하는 것을 막았습니다."
+
+#: main_7.cpp:120
+msgid "end of file markers and were causing the the program to hang or crash."
+msgstr "파일 끝 마커로 인해 프로그램이 멈추거나 충돌하는 경우가 있었습니다."
+
+#: main_7.cpp:118
+msgid "which uses text mode file processing, these characters act like"
+msgstr "텍스트 모드 파일 처리를 사용하는 경우 이러한 문자는 다음과 같이 작동합니다."
+
+#: main_7.cpp:116
+msgid "When these are read from a PGN file with the fast search function,"
+msgstr "빠른 검색 기능을 사용하여 PGN 파일에서 이를 읽을 때,"
+
+#: main_7.cpp:114
+msgid "However, the ones with annotated games contain < Ctrl-Z > characters."
+msgstr "하지만 주석이 달린 게임이 있는 게임에는 <Ctrl-Z> 문자가 포함되어 있습니다."
+
+#: main_7.cpp:112
+msgid "They can be exported as PGN files from within a Fritz GUI"
+msgstr "Fritz GUI 내에서 PGN 파일로 내보낼 수 있습니다."
