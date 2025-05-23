@@ -1,0 +1,314 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-22 14:09+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_7.cpp:2
+msgid "that you use it only with small PGN database files, 100,000 games at the most."
+msgstr "що ви використовуєте його лише з невеликими файлами бази даних PGN, максимум 100 000 ігор."
+
+#: main_7.cpp:4
+msgid "< Fast search > function or Tarrasch database search functions instead."
+msgstr "функція < Швидкий пошук > або функції пошуку в базі даних Tarrasch."
+
+#: main_7.cpp:6
+msgid "The < Search games.. > function is now available for Tarrasch databases files (*.tdb)"
+msgstr "Функція < Пошук ігор.. > тепер доступна для файлів баз даних Tarrasch (*.tdb)."
+
+#: main_7.cpp:8
+msgid "as well as PGN database files.  If you make identical databases in the two formats,"
+msgstr "а також файли бази даних PGN. Якщо ви створюєте ідентичні бази даних у двох форматах,"
+
+#: main_7.cpp:10
+msgid "the Tarrasch database searches are much faster."
+msgstr "Пошук у базі даних Tarrasch набагато швидший."
+
+#: main_7.cpp:12
+msgid "Fast search cannot be used after a column sort."
+msgstr "Швидкий пошук не можна використовувати після сортування за стовпцем."
+
+#: main_7.cpp:14
+msgid "Suggestion : in order to use the fast search function,"
+msgstr "Пропозиція: щоб скористатися функцією швидкого пошуку,"
+
+#: main_7.cpp:16
+msgid "save the current file or load a different one."
+msgstr "зберегти поточний файл або завантажити інший."
+
+#: main_7.cpp:18 main_7.cpp:48
+msgid "Fast search PGN database message"
+msgstr "Швидкий пошук повідомлень бази даних PGN"
+
+#: main_7.cpp:20 main_7.cpp:60
+msgid "Error opening file, operation cancelled"
+msgstr "Помилка відкриття файлу, операцію скасовано"
+
+#: main_7.cpp:22
+msgid "Games search"
+msgstr "Пошук ігор"
+
+#: main_7.cpp:24
+msgid "Searching games"
+msgstr "Пошук ігор"
+
+#: main_7.cpp:26
+msgid "Reading games into cache"
+msgstr "Зчитування ігор у кеш"
+
+#: main_7.cpp:28
+msgid "Removing EOF characters"
+msgstr "Видалення символів EOF"
+
+#: main_7.cpp:30
+msgid "Current read number"
+msgstr "Поточний номер зчитування"
+
+#: main_7.cpp:32
+msgid "File processed"
+msgstr "Файл оброблено"
+
+#: main_7.cpp:34
+msgid "characters removed"
+msgstr "видалені персонажі"
+
+#: main_7.cpp:36
+msgid "from file"
+msgstr "з файлу"
+
+#: main_7.cpp:38
+msgid "to file"
+msgstr "подати"
+
+#: main_7.cpp:40
+msgid "PGN database file message"
+msgstr "Повідомлення файлу бази даних PGN"
+
+#: main_7.cpp:42
+msgid "Games cache cleared"
+msgstr "Кеш ігор очищено"
+
+#: main_7.cpp:44
+msgid "Fast search PGN games message"
+msgstr "Швидкий пошук повідомлень про ігри PGN"
+
+#: main_7.cpp:46
+msgid "Operation cancelled by user"
+msgstr "Операцію скасовано користувачем"
+
+#: main_7.cpp:50
+msgid "EOF error when reading file,"
+msgstr "Помилка EOF під час читання файлу."
+
+#: main_7.cpp:52
+msgid "Suggestion : Create a new version of the current PGN file with"
+msgstr "Пропозиція: Створіть нову версію поточного PGN-файлу за допомогою"
+
+#: main_7.cpp:54
+msgid "< Search games.. > < Fast search options.. > < Remove EOF characters >"
+msgstr "< Пошук ігор.. > < Параметри швидкого пошуку.. > < Видалити символи EOF >"
+
+#: main_7.cpp:56
+msgid "and then open the new file for a fast search."
+msgstr "а потім відкрийте новий файл для швидкого пошуку."
+
+#: main_7.cpp:58
+msgid "Fast search PGN database error message"
+msgstr "Повідомлення про помилку бази даних швидкого пошуку PGN"
+
+#: main_7.cpp:62
+msgid "Fast search"
+msgstr "Швидкий пошук"
+
+#: main_7.cpp:64
+msgid "Fast search options"
+msgstr "Варіанти швидкого пошуку"
+
+#: main_7.cpp:66
+msgid "Remove EOF characters"
+msgstr "Видалити символи EOF"
+
+#: main_7.cpp:68
+msgid "Clear cache"
+msgstr "Очистити кеш"
+
+#: main_7.cpp:70
+msgid "Ok"
+msgstr "Гаразд"
+
+#: main_7.cpp:72
+msgid "Fritz"
+msgstr "Фріц"
+
+#: main_7.cpp:74
+msgid "The < Fast search > feature performs a faster search on PGN files"
+msgstr "Функція < Швидкий пошук > виконує швидший пошук у файлах PGN"
+
+#: main_7.cpp:76
+msgid "than a normal search, but it does have some restrictions."
+msgstr "ніж звичайний пошук, але він має деякі обмеження."
+
+#: main_7.cpp:78
+msgid "It does not search for position matches, nor for games ending in"
+msgstr "Він не шукає збіги позицій, а також ігри, що закінчуються на"
+
+#: main_7.cpp:80
+msgid "checkmate, stalemate, or with a check."
+msgstr "шах і мат, пат або шах."
+
+#: main_7.cpp:82
+msgid "If you are using an annotated PGN database file which was exported from Fritz,"
+msgstr "Якщо ви використовуєте анотований файл бази даних PGN, експортований з Fritz,"
+
+#: main_7.cpp:84
+msgid "you will probably have to use the < Remove EOF characters > option"
+msgstr "вам, ймовірно, доведеться скористатися опцією < Видалити символи EOF >"
+
+#: main_7.cpp:86
+msgid "and load the new file, for the fast search to work properly."
+msgstr "і завантажте новий файл, щоб швидкий пошук працював належним чином."
+
+#: main_7.cpp:88
+msgid "Click on < Fritz > for more information on Fritz database files."
+msgstr "Натисніть на < Fritz >, щоб отримати додаткову інформацію про файли бази даних Fritz."
+
+#: main_7.cpp:90
+msgid "If you sort the game list by clicking on a column heading,"
+msgstr "Якщо відсортувати список ігор, клацнувши на заголовку стовпця,"
+
+#: main_7.cpp:92
+msgid "The fast search will no longer work, until you save the file,"
+msgstr "Швидкий пошук більше не працюватиме, доки ви не збережете файл."
+
+#: main_7.cpp:94
+msgid "or load a different one."
+msgstr "або завантажте інший."
+
+#: main_7.cpp:96
+msgid "The fast search feature creates a cache of game header records"
+msgstr "Функція швидкого пошуку створює кеш записів заголовків гри"
+
+#: main_7.cpp:98
+msgid "in the computer memory, which remains there while the file is open."
+msgstr "у пам'яті комп'ютера, яка залишається там, поки файл відкритий."
+
+#: main_7.cpp:100
+msgid "If fast search is not working properly, or you want to release"
+msgstr "Якщо швидкий пошук працює неправильно або ви хочете його відпустити"
+
+#: main_7.cpp:102
+msgid "the memory, then click on < Clear cache >."
+msgstr "пам’ять, а потім натисніть кнопку < Очистити кеш >."
+
+#: main_7.cpp:104
+msgid "If you click < Search > with the < Shift > key down,"
+msgstr "Якщо натиснути кнопку <Пошук> з утиснутою клавішею <Shift>,"
+
+#: main_7.cpp:106
+msgid "the program will perform a fast search,"
+msgstr "програма виконає швидкий пошук,"
+
+#: main_7.cpp:108
+msgid "even if the < Fast Search > box is not checked."
+msgstr "навіть якщо прапорець < Швидкий пошук > не встановлено."
+
+#: main_7.cpp:110
+msgid "Fritz database files are very good."
+msgstr "Файли бази даних Fritz дуже хороші."
+
+#: main_7.cpp:152
+msgid "Fritz database help"
+msgstr "Довідка з бази даних Fritz"
+
+#: main_7.cpp:150
+msgid "from the site given above."
+msgstr "з сайту, зазначеного вище."
+
+#: main_7.cpp:148
+msgid "You can export this to PGN format using one of the old Fritz GUIs"
+msgstr "Ви можете експортувати це у формат PGN, використовуючи один зі старих графічних інтерфейсів Fritz."
+
+#: main_7.cpp:146
+msgid "which also has an accompanying database, but the games are not annotated."
+msgstr "яка також має супровідну базу даних, але ігри не анотовані."
+
+#: main_7.cpp:144
+msgid "Also, many free download sites have a trial version of the Deep Fritz 12"
+msgstr "Також багато сайтів для безкоштовного завантаження мають пробну версію Deep Fritz 12."
+
+#: main_7.cpp:142
+msgid "to ISO files which can then be unzipped with 7-zip."
+msgstr "у ISO-файли, які потім можна розпакувати за допомогою 7-zip."
+
+#: main_7.cpp:140
+msgid "You need a free program called MagicISO to convert the .bin files"
+msgstr "Вам потрібна безкоштовна програма під назвою MagicISO для конвертації файлів .bin"
+
+#: main_7.cpp:138
+msgid "which have annotated databases, are available from -"
+msgstr "які мають анотовані бази даних, доступні з -"
+
+#: main_7.cpp:136
+msgid "Some old versions of the Fritz GUI (numbers 5, 6 and 7)"
+msgstr "Деякі старі версії графічного інтерфейсу Fritz (номери 5, 6 та 7)"
+
+#: main_7.cpp:134
+msgid "The new file can then be opened and used with < Fast search >"
+msgstr "Новий файл можна відкрити та використовувати за допомогою < Швидкий пошук >"
+
+#: main_7.cpp:132
+msgid "with the offending characters removed."
+msgstr "з видаленням образливих персонажів."
+
+#: main_7.cpp:130
+msgid "which creates a new version of the current PGN database file"
+msgstr "що створює нову версію поточного файлу бази даних PGN"
+
+#: main_7.cpp:128
+msgid "To circumvent this, you can use the < Remove EOF characters >"
+msgstr "Щоб обійти це, можна скористатися командою < Видалити символи EOF >"
+
+#: main_7.cpp:126
+msgid "None of this happens with a normal games search."
+msgstr "Нічого з цього не відбувається зі звичайним пошуком ігор."
+
+#: main_7.cpp:124
+msgid "but could not get it to work properly on the original Fritz PGN files."
+msgstr "але не зміг змусити його працювати належним чином з оригінальними файлами Fritz PGN."
+
+#: main_7.cpp:122
+msgid "I stopped the fast search from causing the program to crash,"
+msgstr "Я зупинив швидкий пошук, щоб він не спричиняв збій програми,"
+
+#: main_7.cpp:120
+msgid "end of file markers and were causing the the program to hang or crash."
+msgstr "маркери кінця файлу та призводили до зависання або аварійного завершення роботи програми."
+
+#: main_7.cpp:118
+msgid "which uses text mode file processing, these characters act like"
+msgstr "який використовує обробку файлів у текстовому режимі, ці символи діють як"
+
+#: main_7.cpp:116
+msgid "When these are read from a PGN file with the fast search function,"
+msgstr "Коли вони зчитуються з PGN-файлу за допомогою функції швидкого пошуку,"
+
+#: main_7.cpp:114
+msgid "However, the ones with annotated games contain < Ctrl-Z > characters."
+msgstr "Однак ті, що мають анотовані ігри, містять символи <Ctrl-Z>."
+
+#: main_7.cpp:112
+msgid "They can be exported as PGN files from within a Fritz GUI"
+msgstr "Їх можна експортувати як PGN-файли з графічного інтерфейсу Fritz."
