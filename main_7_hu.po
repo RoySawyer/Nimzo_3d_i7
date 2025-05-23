@@ -1,0 +1,314 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-22 14:09+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_7.cpp:2
+msgid "that you use it only with small PGN database files, 100,000 games at the most."
+msgstr "hogy csak kis PGN adatbázisfájlokkal használod, legfeljebb 100 000 játékkal."
+
+#: main_7.cpp:4
+msgid "< Fast search > function or Tarrasch database search functions instead."
+msgstr "< Gyorskeresés > függvény vagy Tarrasch adatbázis-keresési függvények helyett."
+
+#: main_7.cpp:6
+msgid "The < Search games.. > function is now available for Tarrasch databases files (*.tdb)"
+msgstr "A < Játékok keresése.. > funkció mostantól elérhető a Tarrasch adatbázisfájlokhoz (*.tdb)"
+
+#: main_7.cpp:8
+msgid "as well as PGN database files.  If you make identical databases in the two formats,"
+msgstr "valamint PGN adatbázisfájlokat. Ha azonos adatbázisokat hoz létre a két formátumban,"
+
+#: main_7.cpp:10
+msgid "the Tarrasch database searches are much faster."
+msgstr "A Tarrasch adatbázisban történő keresések sokkal gyorsabbak."
+
+#: main_7.cpp:12
+msgid "Fast search cannot be used after a column sort."
+msgstr "Oszloprendezés után nem használható gyorskeresés."
+
+#: main_7.cpp:14
+msgid "Suggestion : in order to use the fast search function,"
+msgstr "Javaslat: a gyorskeresési funkció használatához"
+
+#: main_7.cpp:16
+msgid "save the current file or load a different one."
+msgstr "mentse el az aktuális fájlt, vagy töltsön be egy másikat."
+
+#: main_7.cpp:18 main_7.cpp:48
+msgid "Fast search PGN database message"
+msgstr "Gyorskeresés PGN adatbázis üzenet"
+
+#: main_7.cpp:20 main_7.cpp:60
+msgid "Error opening file, operation cancelled"
+msgstr "Hiba a fájl megnyitásakor, a művelet megszakítva"
+
+#: main_7.cpp:22
+msgid "Games search"
+msgstr "Játékok keresése"
+
+#: main_7.cpp:24
+msgid "Searching games"
+msgstr "Játékok keresése"
+
+#: main_7.cpp:26
+msgid "Reading games into cache"
+msgstr "Játékok beolvasása a gyorsítótárba"
+
+#: main_7.cpp:28
+msgid "Removing EOF characters"
+msgstr "EOF karakterek eltávolítása"
+
+#: main_7.cpp:30
+msgid "Current read number"
+msgstr "Jelenlegi olvasási szám"
+
+#: main_7.cpp:32
+msgid "File processed"
+msgstr "Fájl feldolgozva"
+
+#: main_7.cpp:34
+msgid "characters removed"
+msgstr "eltávolított karakterek"
+
+#: main_7.cpp:36
+msgid "from file"
+msgstr "fájlból"
+
+#: main_7.cpp:38
+msgid "to file"
+msgstr "benyújtani"
+
+#: main_7.cpp:40
+msgid "PGN database file message"
+msgstr "PGN adatbázisfájl üzenet"
+
+#: main_7.cpp:42
+msgid "Games cache cleared"
+msgstr "Játékok gyorsítótára törölve"
+
+#: main_7.cpp:44
+msgid "Fast search PGN games message"
+msgstr "Gyorskeresés PGN játékok üzenet"
+
+#: main_7.cpp:46
+msgid "Operation cancelled by user"
+msgstr "A felhasználó megszakította a műveletet"
+
+#: main_7.cpp:50
+msgid "EOF error when reading file,"
+msgstr "EOF hiba a fájl olvasása közben,"
+
+#: main_7.cpp:52
+msgid "Suggestion : Create a new version of the current PGN file with"
+msgstr "Javaslat: Hozz létre egy új verziót a jelenlegi PGN fájlból a következővel:"
+
+#: main_7.cpp:54
+msgid "< Search games.. > < Fast search options.. > < Remove EOF characters >"
+msgstr "< Játékok keresése.. > < Gyorskeresési beállítások.. > < EOF karakterek eltávolítása >"
+
+#: main_7.cpp:56
+msgid "and then open the new file for a fast search."
+msgstr "majd nyissa meg az új fájlt a gyors kereséshez."
+
+#: main_7.cpp:58
+msgid "Fast search PGN database error message"
+msgstr "Gyorskeresés PGN adatbázis hibaüzenet"
+
+#: main_7.cpp:62
+msgid "Fast search"
+msgstr "Gyors keresés"
+
+#: main_7.cpp:64
+msgid "Fast search options"
+msgstr "Gyorskeresési lehetőségek"
+
+#: main_7.cpp:66
+msgid "Remove EOF characters"
+msgstr "EOF karakterek eltávolítása"
+
+#: main_7.cpp:68
+msgid "Clear cache"
+msgstr "Gyorsítótár törlése"
+
+#: main_7.cpp:70
+msgid "Ok"
+msgstr "Rendben"
+
+#: main_7.cpp:72
+msgid "Fritz"
+msgstr "Fritz"
+
+#: main_7.cpp:74
+msgid "The < Fast search > feature performs a faster search on PGN files"
+msgstr "A < Gyorskeresés > funkció gyorsabb keresést végez a PGN fájlokon"
+
+#: main_7.cpp:76
+msgid "than a normal search, but it does have some restrictions."
+msgstr "mint egy normál keresés, de vannak bizonyos korlátozásai."
+
+#: main_7.cpp:78
+msgid "It does not search for position matches, nor for games ending in"
+msgstr "Nem keres pozícióegyezéseket, sem pedig olyan játékokat, amelyek erre végződnek:"
+
+#: main_7.cpp:80
+msgid "checkmate, stalemate, or with a check."
+msgstr "sakk, patt vagy sakk."
+
+#: main_7.cpp:82
+msgid "If you are using an annotated PGN database file which was exported from Fritz,"
+msgstr "Ha egy Fritzből exportált, jegyzetekkel ellátott PGN adatbázisfájlt használ,"
+
+#: main_7.cpp:84
+msgid "you will probably have to use the < Remove EOF characters > option"
+msgstr "valószínűleg az < EOF karakterek eltávolítása > opciót kell használnod."
+
+#: main_7.cpp:86
+msgid "and load the new file, for the fast search to work properly."
+msgstr "és töltse be az új fájlt, hogy a gyorskeresés megfelelően működjön."
+
+#: main_7.cpp:88
+msgid "Click on < Fritz > for more information on Fritz database files."
+msgstr "Kattintson a < Fritz > gombra a Fritz adatbázisfájlokkal kapcsolatos további információkért."
+
+#: main_7.cpp:90
+msgid "If you sort the game list by clicking on a column heading,"
+msgstr "Ha a játékok listáját egy oszlop fejlécére kattintva rendezed,"
+
+#: main_7.cpp:92
+msgid "The fast search will no longer work, until you save the file,"
+msgstr "A gyorskeresés addig nem fog működni, amíg el nem menti a fájlt."
+
+#: main_7.cpp:94
+msgid "or load a different one."
+msgstr "vagy tölts be egy másikat."
+
+#: main_7.cpp:96
+msgid "The fast search feature creates a cache of game header records"
+msgstr "A gyorskeresési funkció gyorsítótárat hoz létre a játék fejlécrekordjaiból"
+
+#: main_7.cpp:98
+msgid "in the computer memory, which remains there while the file is open."
+msgstr "a számítógép memóriájában, amely ott marad, amíg a fájl meg van nyitva."
+
+#: main_7.cpp:100
+msgid "If fast search is not working properly, or you want to release"
+msgstr "Ha a gyorskeresés nem működik megfelelően, vagy ha el szeretné engedni"
+
+#: main_7.cpp:102
+msgid "the memory, then click on < Clear cache >."
+msgstr "a memóriát, majd kattintson a < Gyorsítótár törlése > gombra."
+
+#: main_7.cpp:104
+msgid "If you click < Search > with the < Shift > key down,"
+msgstr "Ha a < Shift > billentyű lenyomva tartása mellett a < Keresés > gombra kattint,"
+
+#: main_7.cpp:106
+msgid "the program will perform a fast search,"
+msgstr "a program gyors keresést fog végezni,"
+
+#: main_7.cpp:108
+msgid "even if the < Fast Search > box is not checked."
+msgstr "még akkor is, ha a < Gyorskeresés > jelölőnégyzet nincs bejelölve."
+
+#: main_7.cpp:110
+msgid "Fritz database files are very good."
+msgstr "A Fritz adatbázisfájlok nagyon jók."
+
+#: main_7.cpp:152
+msgid "Fritz database help"
+msgstr "Fritz adatbázis segítség"
+
+#: main_7.cpp:150
+msgid "from the site given above."
+msgstr "a fent megadott oldalról."
+
+#: main_7.cpp:148
+msgid "You can export this to PGN format using one of the old Fritz GUIs"
+msgstr "Ezt PGN formátumba exportálhatod a régi Fritz grafikus felhasználói felületek egyikével."
+
+#: main_7.cpp:146
+msgid "which also has an accompanying database, but the games are not annotated."
+msgstr "amelyhez egy kísérő adatbázis is tartozik, de a játékok nincsenek annotálva."
+
+#: main_7.cpp:144
+msgid "Also, many free download sites have a trial version of the Deep Fritz 12"
+msgstr "Ezenkívül számos ingyenes letöltési oldal kínál próbaverziót a Deep Fritz 12-ből."
+
+#: main_7.cpp:142
+msgid "to ISO files which can then be unzipped with 7-zip."
+msgstr "ISO fájlokba, amelyeket aztán a 7-zip programmal kicsomagolhatsz."
+
+#: main_7.cpp:140
+msgid "You need a free program called MagicISO to convert the .bin files"
+msgstr "Szükséged van egy ingyenes, MagicISO nevű programra a .bin fájlok konvertálásához."
+
+#: main_7.cpp:138
+msgid "which have annotated databases, are available from -"
+msgstr "amelyek annotált adatbázisokkal rendelkeznek, elérhetők innen: -"
+
+#: main_7.cpp:136
+msgid "Some old versions of the Fritz GUI (numbers 5, 6 and 7)"
+msgstr "A Fritz grafikus felhasználói felület néhány régebbi verziója (5., 6. és 7. szám)"
+
+#: main_7.cpp:134
+msgid "The new file can then be opened and used with < Fast search >"
+msgstr "Az új fájl ezután megnyitható és használható a < Gyorskeresés > paranccsal."
+
+#: main_7.cpp:132
+msgid "with the offending characters removed."
+msgstr "a sértő karakterek eltávolításával."
+
+#: main_7.cpp:130
+msgid "which creates a new version of the current PGN database file"
+msgstr "amely létrehozza az aktuális PGN adatbázisfájl új verzióját"
+
+#: main_7.cpp:128
+msgid "To circumvent this, you can use the < Remove EOF characters >"
+msgstr "Ennek megkerülésére használhatja az < EOF karakterek eltávolítása > parancsot."
+
+#: main_7.cpp:126
+msgid "None of this happens with a normal games search."
+msgstr "Egy átlagos játékkeresésnél semmi ilyesmi nem történik."
+
+#: main_7.cpp:124
+msgid "but could not get it to work properly on the original Fritz PGN files."
+msgstr "de nem sikerült megfelelően működnie az eredeti Fritz PGN fájlokon."
+
+#: main_7.cpp:122
+msgid "I stopped the fast search from causing the program to crash,"
+msgstr "Leállítottam a gyors keresést, ami a program összeomlását okozta."
+
+#: main_7.cpp:120
+msgid "end of file markers and were causing the the program to hang or crash."
+msgstr "fájlvégjelölőket, és ezek okozták a program lefagyását vagy összeomlását."
+
+#: main_7.cpp:118
+msgid "which uses text mode file processing, these characters act like"
+msgstr "amely szöveges módú fájlfeldolgozást használ, ezek a karakterek úgy viselkednek, mint"
+
+#: main_7.cpp:116
+msgid "When these are read from a PGN file with the fast search function,"
+msgstr "Amikor ezeket egy PGN fájlból a gyorskeresési funkcióval olvassuk be,"
+
+#: main_7.cpp:114
+msgid "However, the ones with annotated games contain < Ctrl-Z > characters."
+msgstr "Azonban a jegyzetekkel ellátott játékok < Ctrl-Z > karaktereket tartalmaznak."
+
+#: main_7.cpp:112
+msgid "They can be exported as PGN files from within a Fritz GUI"
+msgstr "PGN fájlokként exportálhatók egy Fritz grafikus felhasználói felületről."
