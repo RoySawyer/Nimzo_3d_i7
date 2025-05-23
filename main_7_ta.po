@@ -1,0 +1,314 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-22 14:09+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_7.cpp:2
+msgid "that you use it only with small PGN database files, 100,000 games at the most."
+msgstr "நீங்கள் அதை சிறிய PGN தரவுத்தள கோப்புகளுடன் மட்டுமே பயன்படுத்துகிறீர்கள், அதிகபட்சம் 100,000 விளையாட்டுகள்."
+
+#: main_7.cpp:4
+msgid "< Fast search > function or Tarrasch database search functions instead."
+msgstr "அதற்கு பதிலாக விரைவான தேடல் > செயல்பாடு அல்லது டாராஷ் தரவுத்தள தேடல் செயல்பாடுகள்."
+
+#: main_7.cpp:6
+msgid "The < Search games.. > function is now available for Tarrasch databases files (*.tdb)"
+msgstr "தேடல் விளையாட்டுகள்.. > செயல்பாடு இப்போது Tarrasch தரவுத்தள கோப்புகளுக்கு (*.tdb) கிடைக்கிறது."
+
+#: main_7.cpp:8
+msgid "as well as PGN database files.  If you make identical databases in the two formats,"
+msgstr "அதே போல் PGN தரவுத்தள கோப்புகளும். இரண்டு வடிவங்களிலும் ஒரே மாதிரியான தரவுத்தளங்களை உருவாக்கினால்,"
+
+#: main_7.cpp:10
+msgid "the Tarrasch database searches are much faster."
+msgstr "டாராஷ் தரவுத்தள தேடல்கள் மிக வேகமாக உள்ளன."
+
+#: main_7.cpp:12
+msgid "Fast search cannot be used after a column sort."
+msgstr "நெடுவரிசை வரிசைப்படுத்தலுக்குப் பிறகு விரைவான தேடலைப் பயன்படுத்த முடியாது."
+
+#: main_7.cpp:14
+msgid "Suggestion : in order to use the fast search function,"
+msgstr "பரிந்துரை: வேகமான தேடல் செயல்பாட்டைப் பயன்படுத்த,"
+
+#: main_7.cpp:16
+msgid "save the current file or load a different one."
+msgstr "தற்போதைய கோப்பை சேமிக்கவும் அல்லது வேறு ஒன்றை ஏற்றவும்."
+
+#: main_7.cpp:18 main_7.cpp:48
+msgid "Fast search PGN database message"
+msgstr "PGN தரவுத்தள செய்தியை விரைவாகத் தேடுங்கள்"
+
+#: main_7.cpp:20 main_7.cpp:60
+msgid "Error opening file, operation cancelled"
+msgstr "கோப்பைத் திறப்பதில் பிழை, செயல்பாடு ரத்து செய்யப்பட்டது."
+
+#: main_7.cpp:22
+msgid "Games search"
+msgstr "விளையாட்டு தேடல்"
+
+#: main_7.cpp:24
+msgid "Searching games"
+msgstr "விளையாட்டுகளைத் தேடுகிறது"
+
+#: main_7.cpp:26
+msgid "Reading games into cache"
+msgstr "கேம்களை தற்காலிக சேமிப்பில் படித்தல்"
+
+#: main_7.cpp:28
+msgid "Removing EOF characters"
+msgstr "EOF எழுத்துக்களை நீக்குதல்"
+
+#: main_7.cpp:30
+msgid "Current read number"
+msgstr "தற்போதைய வாசிப்பு எண்"
+
+#: main_7.cpp:32
+msgid "File processed"
+msgstr "கோப்பு செயலாக்கப்பட்டது"
+
+#: main_7.cpp:34
+msgid "characters removed"
+msgstr "எழுத்துக்கள் நீக்கப்பட்டன"
+
+#: main_7.cpp:36
+msgid "from file"
+msgstr "கோப்பிலிருந்து"
+
+#: main_7.cpp:38
+msgid "to file"
+msgstr "தாக்கல் செய்ய"
+
+#: main_7.cpp:40
+msgid "PGN database file message"
+msgstr "PGN தரவுத்தள கோப்பு செய்தி"
+
+#: main_7.cpp:42
+msgid "Games cache cleared"
+msgstr "கேம்களின் தற்காலிக சேமிப்பு அழிக்கப்பட்டது"
+
+#: main_7.cpp:44
+msgid "Fast search PGN games message"
+msgstr "விரைவான தேடல் PGN விளையாட்டு செய்தி"
+
+#: main_7.cpp:46
+msgid "Operation cancelled by user"
+msgstr "பயனரால் செயல்பாடு ரத்து செய்யப்பட்டது."
+
+#: main_7.cpp:50
+msgid "EOF error when reading file,"
+msgstr "கோப்பைப் படிக்கும்போது EOF பிழை,"
+
+#: main_7.cpp:52
+msgid "Suggestion : Create a new version of the current PGN file with"
+msgstr "பரிந்துரை: தற்போதைய PGN கோப்பின் புதிய பதிப்பை உருவாக்கவும்"
+
+#: main_7.cpp:54
+msgid "< Search games.. > < Fast search options.. > < Remove EOF characters >"
+msgstr "விளையாட்டுகளைத் தேடு.. > விரைவான தேடல் விருப்பங்கள்.. > EOF எழுத்துக்களை அகற்று >"
+
+#: main_7.cpp:56
+msgid "and then open the new file for a fast search."
+msgstr "பின்னர் விரைவான தேடலுக்கு புதிய கோப்பைத் திறக்கவும்."
+
+#: main_7.cpp:58
+msgid "Fast search PGN database error message"
+msgstr "விரைவான தேடல் PGN தரவுத்தள பிழைச் செய்தி"
+
+#: main_7.cpp:62
+msgid "Fast search"
+msgstr "விரைவான தேடல்"
+
+#: main_7.cpp:64
+msgid "Fast search options"
+msgstr "விரைவான தேடல் விருப்பங்கள்"
+
+#: main_7.cpp:66
+msgid "Remove EOF characters"
+msgstr "EOF எழுத்துகளை அகற்று."
+
+#: main_7.cpp:68
+msgid "Clear cache"
+msgstr "தற்காலிக சேமிப்பை அழிக்கவும்"
+
+#: main_7.cpp:70
+msgid "Ok"
+msgstr "சரி"
+
+#: main_7.cpp:72
+msgid "Fritz"
+msgstr "ஃபிரிட்ஸ்"
+
+#: main_7.cpp:74
+msgid "The < Fast search > feature performs a faster search on PGN files"
+msgstr "விரைவான தேடல் > அம்சம் PGN கோப்புகளில் வேகமான தேடலைச் செய்கிறது."
+
+#: main_7.cpp:76
+msgid "than a normal search, but it does have some restrictions."
+msgstr "சாதாரண தேடலை விட, ஆனால் அதற்கு சில கட்டுப்பாடுகள் உள்ளன."
+
+#: main_7.cpp:78
+msgid "It does not search for position matches, nor for games ending in"
+msgstr "இது நிலை பொருத்தங்களைத் தேடாது, அல்லது முடிவடையும் விளையாட்டுகளையும் தேடாது"
+
+#: main_7.cpp:80
+msgid "checkmate, stalemate, or with a check."
+msgstr "செக்மேட், ஸ்டேமேட் அல்லது காசோலையுடன்."
+
+#: main_7.cpp:82
+msgid "If you are using an annotated PGN database file which was exported from Fritz,"
+msgstr "நீங்கள் ஃபிரிட்ஸிலிருந்து ஏற்றுமதி செய்யப்பட்ட ஒரு குறிப்புள்ள PGN தரவுத்தளக் கோப்பைப் பயன்படுத்துகிறீர்கள் என்றால்,"
+
+#: main_7.cpp:84
+msgid "you will probably have to use the < Remove EOF characters > option"
+msgstr "நீங்கள் அநேகமாக "REMOVE EOF characters >" விருப்பத்தைப் பயன்படுத்த வேண்டியிருக்கும்."
+
+#: main_7.cpp:86
+msgid "and load the new file, for the fast search to work properly."
+msgstr "வேகமான தேடல் சரியாக வேலை செய்ய, புதிய கோப்பை ஏற்றவும்."
+
+#: main_7.cpp:88
+msgid "Click on < Fritz > for more information on Fritz database files."
+msgstr "ஃபிரிட்ஸ் தரவுத்தள கோப்புகள் பற்றிய கூடுதல் தகவலுக்கு ஃபிரிட்ஸ் > என்பதைக் கிளிக் செய்யவும்."
+
+#: main_7.cpp:90
+msgid "If you sort the game list by clicking on a column heading,"
+msgstr "நீங்கள் ஒரு நெடுவரிசை தலைப்பைக் கிளிக் செய்வதன் மூலம் விளையாட்டுப் பட்டியலை வரிசைப்படுத்தினால்,"
+
+#: main_7.cpp:92
+msgid "The fast search will no longer work, until you save the file,"
+msgstr "நீங்கள் கோப்பைச் சேமிக்கும் வரை, வேகமான தேடல் இனி வேலை செய்யாது,"
+
+#: main_7.cpp:94
+msgid "or load a different one."
+msgstr "அல்லது வேறு ஒன்றை ஏற்றவும்."
+
+#: main_7.cpp:96
+msgid "The fast search feature creates a cache of game header records"
+msgstr "வேகமான தேடல் அம்சம் விளையாட்டு தலைப்பு பதிவுகளின் தற்காலிக சேமிப்பை உருவாக்குகிறது."
+
+#: main_7.cpp:98
+msgid "in the computer memory, which remains there while the file is open."
+msgstr "கணினி நினைவகத்தில், கோப்பு திறந்திருக்கும் போது அது அங்கேயே இருக்கும்."
+
+#: main_7.cpp:100
+msgid "If fast search is not working properly, or you want to release"
+msgstr "வேகமான தேடல் சரியாக வேலை செய்யவில்லை என்றால், அல்லது நீங்கள் விடுவிக்க விரும்பினால்"
+
+#: main_7.cpp:102
+msgid "the memory, then click on < Clear cache >."
+msgstr "நினைவகம், பின்னர் <Clear cache > என்பதைக் கிளிக் செய்யவும்."
+
+#: main_7.cpp:104
+msgid "If you click < Search > with the < Shift > key down,"
+msgstr "நீங்கள் Search > ஐ Shift > விசையை கீழே அழுத்தி கிளிக் செய்தால்,"
+
+#: main_7.cpp:106
+msgid "the program will perform a fast search,"
+msgstr "நிரல் விரைவான தேடலைச் செய்யும்,"
+
+#: main_7.cpp:108
+msgid "even if the < Fast Search > box is not checked."
+msgstr "விரைவான தேடல் > பெட்டி தேர்வு செய்யப்படாவிட்டாலும் கூட."
+
+#: main_7.cpp:110
+msgid "Fritz database files are very good."
+msgstr "ஃபிரிட்ஸ் தரவுத்தள கோப்புகள் மிகவும் நன்றாக உள்ளன."
+
+#: main_7.cpp:152
+msgid "Fritz database help"
+msgstr "ஃபிரிட்ஸ் தரவுத்தள உதவி"
+
+#: main_7.cpp:150
+msgid "from the site given above."
+msgstr "மேலே கொடுக்கப்பட்டுள்ள தளத்திலிருந்து."
+
+#: main_7.cpp:148
+msgid "You can export this to PGN format using one of the old Fritz GUIs"
+msgstr "நீங்கள் பழைய ஃபிரிட்ஸ் GUI-களில் ஒன்றைப் பயன்படுத்தி இதை PGN வடிவத்திற்கு ஏற்றுமதி செய்யலாம்."
+
+#: main_7.cpp:146
+msgid "which also has an accompanying database, but the games are not annotated."
+msgstr "அதனுடன் ஒரு தரவுத்தளமும் உள்ளது, ஆனால் விளையாட்டுகள் குறிப்புடன் குறிப்பிடப்படவில்லை."
+
+#: main_7.cpp:144
+msgid "Also, many free download sites have a trial version of the Deep Fritz 12"
+msgstr "மேலும், பல இலவச பதிவிறக்க தளங்கள் டீப் ஃபிரிட்ஸ் 12 இன் சோதனை பதிப்பைக் கொண்டுள்ளன."
+
+#: main_7.cpp:142
+msgid "to ISO files which can then be unzipped with 7-zip."
+msgstr "ISO கோப்புகளுக்கு மாற்றவும், பின்னர் அவற்றை 7-ஜிப் மூலம் அன்சிப் செய்யலாம்."
+
+#: main_7.cpp:140
+msgid "You need a free program called MagicISO to convert the .bin files"
+msgstr ".bin கோப்புகளை மாற்ற MagicISO என்ற இலவச நிரல் உங்களுக்குத் தேவை."
+
+#: main_7.cpp:138
+msgid "which have annotated databases, are available from -"
+msgstr "குறிப்புகள் கொண்ட தரவுத்தளங்களைக் கொண்டவை, - இலிருந்து கிடைக்கின்றன."
+
+#: main_7.cpp:136
+msgid "Some old versions of the Fritz GUI (numbers 5, 6 and 7)"
+msgstr "ஃபிரிட்ஸ் GUI இன் சில பழைய பதிப்புகள் (எண்கள் 5, 6 மற்றும் 7)"
+
+#: main_7.cpp:134
+msgid "The new file can then be opened and used with < Fast search >"
+msgstr "புதிய கோப்பை பின்னர் திறந்து < வேகமான தேடல் > மூலம் பயன்படுத்தலாம்."
+
+#: main_7.cpp:132
+msgid "with the offending characters removed."
+msgstr "புண்படுத்தும் எழுத்துக்கள் நீக்கப்படும்."
+
+#: main_7.cpp:130
+msgid "which creates a new version of the current PGN database file"
+msgstr "இது தற்போதைய PGN தரவுத்தள கோப்பின் புதிய பதிப்பை உருவாக்குகிறது."
+
+#: main_7.cpp:128
+msgid "To circumvent this, you can use the < Remove EOF characters >"
+msgstr "இதைத் தவிர்க்க, நீங்கள் <REmove EOF characters > ஐப் பயன்படுத்தலாம்."
+
+#: main_7.cpp:126
+msgid "None of this happens with a normal games search."
+msgstr "சாதாரண விளையாட்டு தேடலில் இவை எதுவும் நடக்காது."
+
+#: main_7.cpp:124
+msgid "but could not get it to work properly on the original Fritz PGN files."
+msgstr "ஆனால் அசல் ஃபிரிட்ஸ் பிஜிஎன் கோப்புகளில் அதை சரியாக வேலை செய்ய வைக்க முடியவில்லை."
+
+#: main_7.cpp:122
+msgid "I stopped the fast search from causing the program to crash,"
+msgstr "வேகமான தேடலால் நிரல் செயலிழக்காமல் இருப்பதை நான் நிறுத்தினேன்,"
+
+#: main_7.cpp:120
+msgid "end of file markers and were causing the the program to hang or crash."
+msgstr "கோப்பு குறிப்பான்களின் முடிவில் இருந்து, நிரல் செயலிழக்க அல்லது செயலிழக்க காரணமாக இருந்தன."
+
+#: main_7.cpp:118
+msgid "which uses text mode file processing, these characters act like"
+msgstr "இது உரை முறை கோப்பு செயலாக்கத்தைப் பயன்படுத்துகிறது, இந்த எழுத்துக்கள் செயல்படுகின்றன"
+
+#: main_7.cpp:116
+msgid "When these are read from a PGN file with the fast search function,"
+msgstr "வேகமான தேடல் செயல்பாடு கொண்ட PGN கோப்பிலிருந்து இவை படிக்கப்படும்போது,"
+
+#: main_7.cpp:114
+msgid "However, the ones with annotated games contain < Ctrl-Z > characters."
+msgstr "இருப்பினும், குறிப்புகள் உள்ள விளையாட்டுகளில் Ctrl-Z > எழுத்துக்கள் இருக்கும்."
+
+#: main_7.cpp:112
+msgid "They can be exported as PGN files from within a Fritz GUI"
+msgstr "அவற்றை ஃபிரிட்ஸ் GUI-க்குள் இருந்து PGN கோப்புகளாக ஏற்றுமதி செய்யலாம்."
