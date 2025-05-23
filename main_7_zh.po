@@ -1,0 +1,314 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-22 14:09+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_7.cpp:2
+msgid "that you use it only with small PGN database files, 100,000 games at the most."
+msgstr "您只能将其用于小型 PGN 数据库文件，最多 100,000 个游戏。"
+
+#: main_7.cpp:4
+msgid "< Fast search > function or Tarrasch database search functions instead."
+msgstr "<快速搜索>功能或Tarrasch数据库搜索功能。"
+
+#: main_7.cpp:6
+msgid "The < Search games.. > function is now available for Tarrasch databases files (*.tdb)"
+msgstr "< 搜索游戏.. > 功能现在可用于 Tarrasch 数据库文件 (*.tdb)"
+
+#: main_7.cpp:8
+msgid "as well as PGN database files.  If you make identical databases in the two formats,"
+msgstr "以及 PGN 数据库文件。如果您使用这两种格式创建相同的数据库，"
+
+#: main_7.cpp:10
+msgid "the Tarrasch database searches are much faster."
+msgstr "Tarrasch 数据库搜索速度更快。"
+
+#: main_7.cpp:12
+msgid "Fast search cannot be used after a column sort."
+msgstr "列排序后无法使用快速搜索。"
+
+#: main_7.cpp:14
+msgid "Suggestion : in order to use the fast search function,"
+msgstr "建议：为了使用快速搜索功能，"
+
+#: main_7.cpp:16
+msgid "save the current file or load a different one."
+msgstr "保存当前文件或加载其他文件。"
+
+#: main_7.cpp:18 main_7.cpp:48
+msgid "Fast search PGN database message"
+msgstr "快速查找PGN数据库消息"
+
+#: main_7.cpp:20 main_7.cpp:60
+msgid "Error opening file, operation cancelled"
+msgstr "打开文件时出错，操作已取消"
+
+#: main_7.cpp:22
+msgid "Games search"
+msgstr "游戏搜索"
+
+#: main_7.cpp:24
+msgid "Searching games"
+msgstr "搜索游戏"
+
+#: main_7.cpp:26
+msgid "Reading games into cache"
+msgstr "将游戏读取到缓存中"
+
+#: main_7.cpp:28
+msgid "Removing EOF characters"
+msgstr "删除 EOF 字符"
+
+#: main_7.cpp:30
+msgid "Current read number"
+msgstr "当前读取数"
+
+#: main_7.cpp:32
+msgid "File processed"
+msgstr "文件已处理"
+
+#: main_7.cpp:34
+msgid "characters removed"
+msgstr "删除的字符"
+
+#: main_7.cpp:36
+msgid "from file"
+msgstr "从文件"
+
+#: main_7.cpp:38
+msgid "to file"
+msgstr "归档"
+
+#: main_7.cpp:40
+msgid "PGN database file message"
+msgstr "PGN数据库文件消息"
+
+#: main_7.cpp:42
+msgid "Games cache cleared"
+msgstr "游戏缓存已清除"
+
+#: main_7.cpp:44
+msgid "Fast search PGN games message"
+msgstr "快速搜索PGN游戏消息"
+
+#: main_7.cpp:46
+msgid "Operation cancelled by user"
+msgstr "操作被用户取消"
+
+#: main_7.cpp:50
+msgid "EOF error when reading file,"
+msgstr "读取文件时出现 EOF 错误，"
+
+#: main_7.cpp:52
+msgid "Suggestion : Create a new version of the current PGN file with"
+msgstr "建议：使用以下方式创建当前 PGN 文件的新版本"
+
+#: main_7.cpp:54
+msgid "< Search games.. > < Fast search options.. > < Remove EOF characters >"
+msgstr "< 搜索游戏.. > < 快速搜索选项.. > < 删除 EOF 字符 >"
+
+#: main_7.cpp:56
+msgid "and then open the new file for a fast search."
+msgstr "然后打开新文件进行快速搜索。"
+
+#: main_7.cpp:58
+msgid "Fast search PGN database error message"
+msgstr "快速搜索PGN数据库错误信息"
+
+#: main_7.cpp:62
+msgid "Fast search"
+msgstr "快速搜索"
+
+#: main_7.cpp:64
+msgid "Fast search options"
+msgstr "快速搜索选项"
+
+#: main_7.cpp:66
+msgid "Remove EOF characters"
+msgstr "删除 EOF 字符"
+
+#: main_7.cpp:68
+msgid "Clear cache"
+msgstr "清除缓存"
+
+#: main_7.cpp:70
+msgid "Ok"
+msgstr "好的"
+
+#: main_7.cpp:72
+msgid "Fritz"
+msgstr "弗里茨"
+
+#: main_7.cpp:74
+msgid "The < Fast search > feature performs a faster search on PGN files"
+msgstr "<快速搜索>功能可以更快地搜索 PGN 文件"
+
+#: main_7.cpp:76
+msgid "than a normal search, but it does have some restrictions."
+msgstr "比正常搜索更容易，但确实有一些限制。"
+
+#: main_7.cpp:78
+msgid "It does not search for position matches, nor for games ending in"
+msgstr "它不搜索位置匹配，也不搜索以"
+
+#: main_7.cpp:80
+msgid "checkmate, stalemate, or with a check."
+msgstr "将死、僵局或将军。"
+
+#: main_7.cpp:82
+msgid "If you are using an annotated PGN database file which was exported from Fritz,"
+msgstr "如果您使用的是从 Fritz 导出的带注释的 PGN 数据库文件，"
+
+#: main_7.cpp:84
+msgid "you will probably have to use the < Remove EOF characters > option"
+msgstr "您可能需要使用<删除 EOF 字符>选项"
+
+#: main_7.cpp:86
+msgid "and load the new file, for the fast search to work properly."
+msgstr "并加载新文件，以使快速搜索正常工作。"
+
+#: main_7.cpp:88
+msgid "Click on < Fritz > for more information on Fritz database files."
+msgstr "单击< Fritz >以获取有关 Fritz 数据库文件的更多信息。"
+
+#: main_7.cpp:90
+msgid "If you sort the game list by clicking on a column heading,"
+msgstr "如果您通过单击列标题对游戏列表进行排序，"
+
+#: main_7.cpp:92
+msgid "The fast search will no longer work, until you save the file,"
+msgstr "在您保存文件之前，快速搜索将不再起作用，"
+
+#: main_7.cpp:94
+msgid "or load a different one."
+msgstr "或加载其他的。"
+
+#: main_7.cpp:96
+msgid "The fast search feature creates a cache of game header records"
+msgstr "快速搜索功能创建游戏头记录的缓存"
+
+#: main_7.cpp:98
+msgid "in the computer memory, which remains there while the file is open."
+msgstr "存储在计算机内存中，当文件打开时，该内存会保留在那里。"
+
+#: main_7.cpp:100
+msgid "If fast search is not working properly, or you want to release"
+msgstr "如果快速搜索无法正常工作，或者您想发布"
+
+#: main_7.cpp:102
+msgid "the memory, then click on < Clear cache >."
+msgstr "内存，然后点击<清除缓存>。"
+
+#: main_7.cpp:104
+msgid "If you click < Search > with the < Shift > key down,"
+msgstr "如果在按住 < Shift > 键的同时单击 < 搜索 >，"
+
+#: main_7.cpp:106
+msgid "the program will perform a fast search,"
+msgstr "程序将执行快速搜索，"
+
+#: main_7.cpp:108
+msgid "even if the < Fast Search > box is not checked."
+msgstr "即使未选中<快速搜索>框。"
+
+#: main_7.cpp:110
+msgid "Fritz database files are very good."
+msgstr "Fritz 数据库文件非常好。"
+
+#: main_7.cpp:152
+msgid "Fritz database help"
+msgstr "Fritz 数据库帮助"
+
+#: main_7.cpp:150
+msgid "from the site given above."
+msgstr "来自上面给出的网站。"
+
+#: main_7.cpp:148
+msgid "You can export this to PGN format using one of the old Fritz GUIs"
+msgstr "您可以使用旧的 Fritz GUI 将其导出为 PGN 格式"
+
+#: main_7.cpp:146
+msgid "which also has an accompanying database, but the games are not annotated."
+msgstr "它还有一个附带的数据库，但是游戏没有注释。"
+
+#: main_7.cpp:144
+msgid "Also, many free download sites have a trial version of the Deep Fritz 12"
+msgstr "此外，许多免费下载网站都有 Deep Fritz 12 的试用版"
+
+#: main_7.cpp:142
+msgid "to ISO files which can then be unzipped with 7-zip."
+msgstr "到 ISO 文件，然后可以使用 7-zip 解压缩。"
+
+#: main_7.cpp:140
+msgid "You need a free program called MagicISO to convert the .bin files"
+msgstr "您需要一个名为 MagicISO 的免费程序来转换 .bin 文件"
+
+#: main_7.cpp:138
+msgid "which have annotated databases, are available from -"
+msgstr "带有注释的数据库，可从以下位置获取 -"
+
+#: main_7.cpp:136
+msgid "Some old versions of the Fritz GUI (numbers 5, 6 and 7)"
+msgstr "Fritz GUI 的一些旧版本（编号 5、6 和 7）"
+
+#: main_7.cpp:134
+msgid "The new file can then be opened and used with < Fast search >"
+msgstr "然后可以使用<快速搜索>打开并使用新文件"
+
+#: main_7.cpp:132
+msgid "with the offending characters removed."
+msgstr "删除了违规字符。"
+
+#: main_7.cpp:130
+msgid "which creates a new version of the current PGN database file"
+msgstr "创建当前 PGN 数据库文件的新版本"
+
+#: main_7.cpp:128
+msgid "To circumvent this, you can use the < Remove EOF characters >"
+msgstr "为了避免这种情况，您可以使用<删除 EOF 字符>"
+
+#: main_7.cpp:126
+msgid "None of this happens with a normal games search."
+msgstr "在正常的游戏搜索中，这些都不会发生。"
+
+#: main_7.cpp:124
+msgid "but could not get it to work properly on the original Fritz PGN files."
+msgstr "但无法使其在原始 Fritz PGN 文件上正常工作。"
+
+#: main_7.cpp:122
+msgid "I stopped the fast search from causing the program to crash,"
+msgstr "我停止了快速搜索，以免程序崩溃，"
+
+#: main_7.cpp:120
+msgid "end of file markers and were causing the the program to hang or crash."
+msgstr "文件结束标记并导致程序挂起或崩溃。"
+
+#: main_7.cpp:118
+msgid "which uses text mode file processing, these characters act like"
+msgstr "使用文本模式文件处理，这些字符的作用就像"
+
+#: main_7.cpp:116
+msgid "When these are read from a PGN file with the fast search function,"
+msgstr "当使用快速搜索功能从 PGN 文件中读取这些内容时，"
+
+#: main_7.cpp:114
+msgid "However, the ones with annotated games contain < Ctrl-Z > characters."
+msgstr "但是，带有注释的游戏包含 <Ctrl-Z> 字符。"
+
+#: main_7.cpp:112
+msgid "They can be exported as PGN files from within a Fritz GUI"
+msgstr "它们可以从 Fritz GUI 中导出为 PGN 文件"
